@@ -1,0 +1,51 @@
+.jumbotron {
+    background-image: url('coffee-biscuits.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+   padding: 130px;}
+
+   body {
+    padding-bottom: 120px;
+    height: 100%;
+    }
+  
+  .random-block-test {
+    border-radius: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.85);
+    padding: 15px;
+  }
+  
+  #aboutus {
+    padding: 5em;
+    background-color: rgb(135, 28, 197);
+    text-align: center;
+  }
+  
+  #cookie-body {
+    padding-bottom: 5em; 
+  }
+  
+  #cookie-title {
+    padding-bottom: 3em; 
+  }
+
+  .circleimage {
+    border-radius: 50%;
+  }
+  
+  
+  #contactus {
+    padding: 5em;
+    background-color: rgb(156, 149, 221);
+    text-align: center;
+ 
+  }
+  #illustrationsoftwopeoplebaking {
+    height: 150px;
+    border-radius: 50%;
+    float: left;
+  }
+  
+ 
